@@ -1,0 +1,89 @@
+body{
+    height: 100vh;
+    margin:0px;
+    padding:0px;
+    font-family: 'Signika Negative', sans-serif;
+    overflow-x: hidden;
+
+}
+
+
+
+#cont
+{
+margin-top: 100px;
+margin-right : 100px;
+margin-left : 50px;
+border-radius: 50px;
+background-color: #c0bdc0;
+box-shadow: 0px 4px 8px 0px rgba(16, 16, 17, 0.861), 0px 6px 20px 0px rgba(24, 184, 247, 0.755)
+
+
+
+}
+#floatingInputGrid , #floatingInput, #floatingPassword
+{
+    border-radius : 25px;
+}
+
+.leftside,.rightside
+{
+    width:100%;
+    margin:0px;
+}
+
+.leftside{
+    height: 100vh;
+   
+    
+}
+
+.rightside{
+    height :20px;
+}
+    
+
+.this{
+    height:100vh;
+    background-color:#edf5f5
+
+
+    
+   
+
+
+
+}
+.login{
+    
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px 0px rgba(16, 16, 17, 0.861);
+    margin-right: 20px;
+    
+}
+
+.col-ryt{
+    background-color: #185e65;
+}
+#rightsidemain{
+    height:100vh;
+    padding:30px;
+}
+
+.collef{
+    margin-bottom: 25vh;
+}
+.carousel,.carousel{
+    height: 50px;
+    width:50px;
+}
+
+.card{ border-radius : 50px;
+    background-color: #36828d;
+    box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.453)
+    
+}
+.card-text{
+    color: white;
+    font-size: larger;
+}

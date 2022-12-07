@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Montserrat';
+  font-size: 20px;
+}
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  height: 500px;
+  margin: 100px auto;
+  background: #ecf0f1;
+  border-radius: 10px;
+}
+
